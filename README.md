@@ -1,16 +1,76 @@
-## Hi there 👋
+# Hi, I'm Gopika Krishnan 👋
 
-<!--
-**gopikaa-krishnan/gopikaa-krishnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### CSE Graduate | Aspiring Data Analyst | Python | SQL | React
 
-Here are some ideas to get you started:
+I'm a Computer Science Engineering graduate interested in
+Data Analytics, Business Intelligence, and software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning new technologies, building projects, and
+solving problems through technology.
+
+---
+
+## 🛠️ Skills
+
+### Programming & Development
+- Python
+- JavaScript
+- React.js
+- HTML
+- CSS
+
+### Database
+- PostgreSQL
+- Supabase
+- SQL
+
+### Tools
+- Git & GitHub
+- Docker
+
+---
+
+## 🚀 Projects
+
+### 📊 Log Analyzer
+A Python-based project for analyzing and processing log data.
+
+---
+
+## 🎓 Education
+
+**B.Tech in Computer Science and Engineering**
+
+University College of Engineering, Kariavattom  
+Thiruvananthapuram, Kerala
+
+---
+
+## 📚 Currently Learning
+
+- Data Analytics
+- Advanced SQL
+- Python for Data Analysis
+- Excel
+- Power BI
+- Statistics
+- Data Visualization
+
+---
+
+## 🎯 Career Interests
+
+- Data Analytics
+- Business Intelligence
+- Software Development
+- Python Development
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/gopika-krishnan-31a62130a/
+
+---
+
+⭐ Thanks for visiting my profile!
